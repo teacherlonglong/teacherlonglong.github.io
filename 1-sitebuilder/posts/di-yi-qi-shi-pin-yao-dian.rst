@@ -1,6 +1,6 @@
 .. title: 第一期视频要点
 .. slug: di-yi-qi-shi-pin-yao-dian
-.. date: 2020-11-18 22:28:22 UTC+08:00
+.. date: 2020-11-18 22:38:22 UTC+08:00
 .. tags: Firefox, Python, VSCode, TinyWall, pip, pylint, Code Runner, 卸载程序, 文件扩展名, 中文字符编码
 .. category: 视频要点
 .. link: 
