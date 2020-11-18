@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>龙龙的程序设计课堂 (关于文章 杂文)</title><link>https://teacherlonglong.github.io/</link><description></description><atom:link href="https://teacherlonglong.github.io/categories/cat_za-wen.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2020 &lt;a href="mailto:teacherlonglong@126.com"&gt;龙龙&lt;/a&gt; </copyright><lastBuildDate>Wed, 18 Nov 2020 13:10:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>声明</title><link>https://teacherlonglong.github.io/posts/sheng-ming/</link><dc:creator>龙龙</dc:creator><description>&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;p&gt;本课程不收取任何费用，只是将我所学分享给想学习程序设计的小伙伴们。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程中网页浏览内容只为获取有价值的信息，不代表本人观点。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程中弹出的任何广告，非本人制作，或者是计算机上安装的某个程序带的，或者是浏览的某个网站带的，不代表本人观点。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程内容受限于本人的知识和能力，以及制作课程时的软硬件环境及版本，对于课程内容引发的软硬件问题不负责维护。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程内容受限于本人的知识和能力，无法确保讲的一定是对的，对于课程内容引发的经济损失不负责补偿。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程内容受限于本人的知识和能力，以及现实环境，可能会使用到非国产软件，只是为了解决某些技术问题，不影响本人的爱国热情。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;</description><category>声明</category><guid>https://teacherlonglong.github.io/posts/sheng-ming/</guid><pubDate>Wed, 18 Nov 2020 13:04:40 GMT</pubDate></item></channel></rss>
