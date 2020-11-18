@@ -1,6 +1,6 @@
 .. title: 声明
 .. slug: sheng-ming
-.. date: 2020-11-18 21:04:40 UTC+08:00
+.. date: 2020-11-18 22:03:40 UTC+08:00
 .. tags: 声明
 .. category: 杂文
 .. link: 
