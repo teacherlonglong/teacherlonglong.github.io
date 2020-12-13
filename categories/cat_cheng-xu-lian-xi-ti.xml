@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>龙龙的程序设计课堂 (关于文章 程序练习题)</title><link>https://teacherlonglong.github.io/</link><description></description><atom:link href="https://teacherlonglong.github.io/categories/cat_cheng-xu-lian-xi-ti.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2020 &lt;a href="mailto:teacherlonglong@126.com"&gt;龙龙&lt;/a&gt; </copyright><lastBuildDate>Sun, 13 Dec 2020 05:53:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>程序练习题1</title><link>https://teacherlonglong.github.io/posts/cheng-xu-lian-xi-ti-1/</link><dc:creator>龙龙</dc:creator><description>&lt;div&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;p&gt;请编写程序，实现以下效果。用户输入长、宽和高，计算长方体的体积。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class="code text"&gt;&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-1"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入长方体的长: 3
+&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-2"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入长方体的宽: 4
+&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-3"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入长方体的高: 5
+&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-4"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 这个长方体的体积为: 60
+&lt;/pre&gt;&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;&lt;p&gt;请编写程序，实现以下效果。用户输入底面半径和高，计算圆柱体的体积。假定 &lt;span class="math"&gt;\(\pi=3.14\)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class="code text"&gt;&lt;a name="rest_code_a9dccd567e0e46418a0b9d7b716e54c7-1"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的底面半径: 2
+&lt;a name="rest_code_a9dccd567e0e46418a0b9d7b716e54c7-2"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的高: 3
+&lt;a name="rest_code_a9dccd567e0e46418a0b9d7b716e54c7-3"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 这个圆柱体的体积为: 37.68
+&lt;/pre&gt;&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;&lt;p&gt;请编写程序，实现以下效果。用户输入底面半径和高，计算圆柱体的表面积。假定 &lt;span class="math"&gt;\(\pi=3.14\)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class="code text"&gt;&lt;a name="rest_code_205bcef5a57442d89a49f3a213257541-1"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的底面半径: 2
+&lt;a name="rest_code_205bcef5a57442d89a49f3a213257541-2"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的高: 3
+&lt;a name="rest_code_205bcef5a57442d89a49f3a213257541-3"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 这个圆柱体的表面积为: 62.8
+&lt;/pre&gt;&lt;/div&gt;</description><category>Python</category><category>练习题</category><guid>https://teacherlonglong.github.io/posts/cheng-xu-lian-xi-ti-1/</guid><pubDate>Sun, 13 Dec 2020 05:31:11 GMT</pubDate></item></channel></rss>

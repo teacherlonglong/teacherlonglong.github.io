@@ -1,7 +1,7 @@
 .. title: 第二期视频要点
 .. slug: di-er-qi-shi-pin-yao-dian
 .. date: 2020-12-05 22:38:36 UTC+08:00
-.. tags: 
+.. tags: 变量, 算术运算, 输入输出, 类型转化, 四舍五入, Python
 .. category: 视频要点
 .. link: 
 .. description: 

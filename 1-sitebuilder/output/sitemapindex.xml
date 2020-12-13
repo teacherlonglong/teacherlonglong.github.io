@@ -6,8 +6,16 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/bian-liang.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/cat_cheng-xu-lian-xi-ti.xml</loc>
+  <lastmod>2020-12-13T05:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://teacherlonglong.github.io/categories/cat_shi-pin-yao-dian.xml</loc>
-  <lastmod>2020-12-05T13:47:00Z</lastmod>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/categories/cat_za-wen.xml</loc>
@@ -18,8 +26,28 @@
   <lastmod>2020-12-05T13:47:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/dai-ma-suo-jin.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://teacherlonglong.github.io/categories/firefox.xml</loc>
   <lastmod>2020-12-05T13:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/han-shu.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/lei-xing-zhuan-hua.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/lian-xi-ti.xml</loc>
+  <lastmod>2020-12-13T05:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/mo-kuai-hua.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/categories/pip.xml</loc>
@@ -31,11 +59,27 @@
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/categories/python.xml</loc>
-  <lastmod>2020-12-05T13:47:00Z</lastmod>
+  <lastmod>2020-12-13T05:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/categories/sheng-ming.xml</loc>
   <lastmod>2020-12-05T13:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/shi-pin-yao-dian.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/shu-ru-shu-chu.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/si-she-wu-ru.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://teacherlonglong.github.io/categories/suan-zhu-yun-suan.xml</loc>
+  <lastmod>2020-12-13T05:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/categories/tinywall.xml</loc>
@@ -59,10 +103,10 @@
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/rss.xml</loc>
-  <lastmod>2020-12-05T13:47:00Z</lastmod>
+  <lastmod>2020-12-13T05:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://teacherlonglong.github.io/sitemap.xml</loc>
-  <lastmod>2020-12-05T13:47:00Z</lastmod>
+  <lastmod>2020-12-13T05:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>

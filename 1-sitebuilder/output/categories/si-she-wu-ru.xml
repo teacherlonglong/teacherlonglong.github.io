@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>龙龙的程序设计课堂 (关于文章 四舍五入)</title><link>https://teacherlonglong.github.io/</link><description></description><atom:link href="https://teacherlonglong.github.io/categories/si-she-wu-ru.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2020 &lt;a href="mailto:teacherlonglong@126.com"&gt;龙龙&lt;/a&gt; </copyright><lastBuildDate>Sun, 13 Dec 2020 05:30:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>第二期视频要点</title><link>https://teacherlonglong.github.io/posts/di-er-qi-shi-pin-yao-dian/</link><dc:creator>龙龙</dc:creator><description>&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;课程声明&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode两种方式运行Python代码&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;print()函数，输出&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;代码中的标点符号，如括号、引号等，必须是英文半角&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;函数名不可以拼写错误&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量的定义和使用&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量的直观理解&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注释 【#】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量的算术运算，加法【+】、减法【-】、乘法【*】、除法【/】、整除【//】、求余数【%】、乘方【**】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量赋值的直观理解&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量赋值的特殊写法  【+=】、【-=】、【*=】、【/=】、【//=】、【%=】、【**=】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;input()函数，获取输入&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意input()函数获取的是字符串&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;int()函数，字符串转化为整数&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;字符串拼接   【+】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意数字和字符串不能直接用【+】拼接&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;str()函数，数字转化为字符串&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;float()函数，字符串转化为小数（浮点数）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;题目：用户输入长方形的长和宽，程序输出长方形的面积&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;函数嵌套调用&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;重要的坑：Python如何实现精确的四舍五入， decimal&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>四舍五入</category><category>Python</category><category>变量</category><category>算术运算</category><category>类型转化</category><category>输入输出</category><guid>https://teacherlonglong.github.io/posts/di-er-qi-shi-pin-yao-dian/</guid><pubDate>Sat, 05 Dec 2020 14:38:36 GMT</pubDate></item></channel></rss>
