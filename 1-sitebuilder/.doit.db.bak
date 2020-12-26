@@ -52,7 +52,7 @@
 'copy_assets:output\\assets\\js\\html5shiv-printshiv.min.js', (52736, 505)
 'render_posts', (53248, 56)
 'render_pages:output\\posts\\sheng-ming\\index.html', (53760, 6786)
-'sitemap:output\\sitemap.xml', (328704, 10180)
+'sitemap:output\\sitemap.xml', (328704, 10174)
 'copy_assets:output\\assets\\js\\luxon.min.js', (62976, 478)
 'copy_assets:output\\assets\\js\\gallery.min.js', (63488, 480)
 'copy_assets:output\\assets\\xml\\rss.xsl', (64000, 469)

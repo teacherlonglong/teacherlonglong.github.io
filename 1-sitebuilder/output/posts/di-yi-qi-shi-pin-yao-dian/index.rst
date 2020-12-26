@@ -41,3 +41,7 @@
 * 下载并安装TinyWall 
 * 如何使用TinyWall控制特定程序访问网络 
 * 如何通过Windows控制面板卸载程序 
+
+
+视频下载地址：https://www.jianguoyun.com/p/DZQXL1wQq72LCRjT59YD
+
