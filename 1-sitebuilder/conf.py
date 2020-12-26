@@ -140,6 +140,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/posts/guan-yu-wo/", "关于我"),
         ("/archive.html", "文章归档"),
         ("/categories/", "标签"),
         ("/rss.xml", "RSS 源"),
