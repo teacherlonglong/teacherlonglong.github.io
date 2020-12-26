@@ -25,7 +25,7 @@ SITE_URL = "https://teacherlonglong.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://teacherlonglong.github.io/"
 BLOG_EMAIL = "teacherlonglong@126.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "因为知道的太少，所以想学的太多。"  # (translatable)
 
 # Nikola is multilingual!
 #
