@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>龙龙的程序设计课堂 (关于文章 模块化)</title><link>https://teacherlonglong.github.io/</link><description></description><atom:link href="https://teacherlonglong.github.io/categories/mo-kuai-hua.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2021 &lt;a href="mailto:teacherlonglong@126.com"&gt;龙龙&lt;/a&gt; </copyright><lastBuildDate>Sat, 09 Jan 2021 15:17:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>第三期视频要点</title><link>https://teacherlonglong.github.io/posts/di-san-qi-shi-pin-yao-dian/</link><dc:creator>龙龙</dc:creator><description>&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;课程声明&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;def 定义函数&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;函数头，函数体，参数，返回值&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意代码缩进&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;代码模块化，分工合作开发程序&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;from xxx import xx 从模块导入函数&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Python</category><category>代码缩进</category><category>函数</category><category>模块化</category><category>视频要点</category><guid>https://teacherlonglong.github.io/posts/di-san-qi-shi-pin-yao-dian/</guid><pubDate>Sun, 13 Dec 2020 05:14:58 GMT</pubDate></item></channel></rss>

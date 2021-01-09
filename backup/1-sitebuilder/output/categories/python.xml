@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>龙龙的程序设计课堂 (关于文章 Python)</title><link>https://teacherlonglong.github.io/</link><description></description><atom:link href="https://teacherlonglong.github.io/categories/python.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2021 &lt;a href="mailto:teacherlonglong@126.com"&gt;龙龙&lt;/a&gt; </copyright><lastBuildDate>Sat, 09 Jan 2021 15:17:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>程序练习题1</title><link>https://teacherlonglong.github.io/posts/cheng-xu-lian-xi-ti-1/</link><dc:creator>龙龙</dc:creator><description>&lt;div&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;p&gt;请编写程序，实现以下效果。用户输入长、宽和高，计算长方体的体积。&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class="code text"&gt;&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-1"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入长方体的长: 3
+&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-2"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入长方体的宽: 4
+&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-3"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入长方体的高: 5
+&lt;a name="rest_code_cc17909ab6b44977a43f49502daa6f2e-4"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 这个长方体的体积为: 60
+&lt;/pre&gt;&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;&lt;p&gt;请编写程序，实现以下效果。用户输入底面半径和高，计算圆柱体的体积。假定 &lt;span class="math"&gt;\(\pi=3.14\)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class="code text"&gt;&lt;a name="rest_code_a9dccd567e0e46418a0b9d7b716e54c7-1"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的底面半径: 2
+&lt;a name="rest_code_a9dccd567e0e46418a0b9d7b716e54c7-2"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的高: 3
+&lt;a name="rest_code_a9dccd567e0e46418a0b9d7b716e54c7-3"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 这个圆柱体的体积为: 37.68
+&lt;/pre&gt;&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;&lt;p&gt;请编写程序，实现以下效果。用户输入底面半径和高，计算圆柱体的表面积。假定 &lt;span class="math"&gt;\(\pi=3.14\)&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre class="code text"&gt;&lt;a name="rest_code_205bcef5a57442d89a49f3a213257541-1"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的底面半径: 2
+&lt;a name="rest_code_205bcef5a57442d89a49f3a213257541-2"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 请输入圆柱体的高: 3
+&lt;a name="rest_code_205bcef5a57442d89a49f3a213257541-3"&gt;&lt;/a&gt;&amp;gt;&amp;gt; 这个圆柱体的表面积为: 62.8
+&lt;/pre&gt;&lt;/div&gt;</description><category>Python</category><category>练习题</category><guid>https://teacherlonglong.github.io/posts/cheng-xu-lian-xi-ti-1/</guid><pubDate>Sun, 13 Dec 2020 05:31:11 GMT</pubDate></item><item><title>第三期视频要点</title><link>https://teacherlonglong.github.io/posts/di-san-qi-shi-pin-yao-dian/</link><dc:creator>龙龙</dc:creator><description>&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;课程声明&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;def 定义函数&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;函数头，函数体，参数，返回值&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意代码缩进&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;代码模块化，分工合作开发程序&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;from xxx import xx 从模块导入函数&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Python</category><category>代码缩进</category><category>函数</category><category>模块化</category><category>视频要点</category><guid>https://teacherlonglong.github.io/posts/di-san-qi-shi-pin-yao-dian/</guid><pubDate>Sun, 13 Dec 2020 05:14:58 GMT</pubDate></item><item><title>第二期视频要点</title><link>https://teacherlonglong.github.io/posts/di-er-qi-shi-pin-yao-dian/</link><dc:creator>龙龙</dc:creator><description>&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;课程声明&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode两种方式运行Python代码&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;print()函数，输出&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;代码中的标点符号，如括号、引号等，必须是英文半角&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;函数名不可以拼写错误&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量的定义和使用&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量的直观理解&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注释 【#】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量的算术运算，加法【+】、减法【-】、乘法【*】、除法【/】、整除【//】、求余数【%】、乘方【**】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量赋值的直观理解&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;变量赋值的特殊写法  【+=】、【-=】、【*=】、【/=】、【//=】、【%=】、【**=】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;input()函数，获取输入&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意input()函数获取的是字符串&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;int()函数，字符串转化为整数&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;字符串拼接   【+】&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;注意数字和字符串不能直接用【+】拼接&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;str()函数，数字转化为字符串&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;float()函数，字符串转化为小数（浮点数）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;题目：用户输入长方形的长和宽，程序输出长方形的面积&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;函数嵌套调用&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;重要的坑：Python如何实现精确的四舍五入， decimal&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>四舍五入</category><category>Python</category><category>变量</category><category>算术运算</category><category>类型转化</category><category>输入输出</category><guid>https://teacherlonglong.github.io/posts/di-er-qi-shi-pin-yao-dian/</guid><pubDate>Sat, 05 Dec 2020 14:38:36 GMT</pubDate></item><item><title>第一期视频要点</title><link>https://teacherlonglong.github.io/posts/di-yi-qi-shi-pin-yao-dian/</link><dc:creator>龙龙</dc:creator><description>&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;课程声明&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程背景&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox  &lt;a class="reference external" href="http://www.firefox.com.cn/"&gt;http://www.firefox.com.cn/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么使用Firefox浏览器？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python  &lt;a class="reference external" href="https://www.python.org/"&gt;https://www.python.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么需要程序设计语言？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;什么是解释器？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode  &lt;a class="reference external" href="https://code.visualstudio.com/"&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么使用VSCode？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;TinyWall  &lt;a class="reference external" href="https://tinywall.pados.hu/"&gt;https://tinywall.pados.hu/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么使用TinyWall？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用百度搜索  &lt;a class="reference external" href="https://www.baidu.com/"&gt;https://www.baidu.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何区分百度搜索结果里的广告和官网&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装Firefox浏览器&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox浏览器隐私设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox浏览器界面设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox浏览器主页设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装Python解释器&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装VSCode开发环境&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装简体中文扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode隐私设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode字体设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装Python扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装pylint扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;pip切换国内源&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Win10显示文件扩展名&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装Code Runner扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用VSCode的命令面板&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python设置中文字符编码&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何在VSCode中运行Python程序&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装TinyWall&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何使用TinyWall控制特定程序访问网络&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何通过Windows控制面板卸载程序&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Code Runner</category><category>Firefox</category><category>pip</category><category>pylint</category><category>Python</category><category>TinyWall</category><category>VSCode</category><category>中文字符编码</category><category>卸载程序</category><category>文件扩展名</category><guid>https://teacherlonglong.github.io/posts/di-yi-qi-shi-pin-yao-dian/</guid><pubDate>Wed, 18 Nov 2020 14:38:22 GMT</pubDate></item></channel></rss>

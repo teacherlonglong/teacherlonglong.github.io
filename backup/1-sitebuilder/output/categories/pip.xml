@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>龙龙的程序设计课堂 (关于文章 pip)</title><link>https://teacherlonglong.github.io/</link><description></description><atom:link href="https://teacherlonglong.github.io/categories/pip.xml" rel="self" type="application/rss+xml"></atom:link><language>zh_cn</language><copyright>Contents © 2021 &lt;a href="mailto:teacherlonglong@126.com"&gt;龙龙&lt;/a&gt; </copyright><lastBuildDate>Sat, 09 Jan 2021 15:17:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>第一期视频要点</title><link>https://teacherlonglong.github.io/posts/di-yi-qi-shi-pin-yao-dian/</link><dc:creator>龙龙</dc:creator><description>&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;课程声明&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;课程背景&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox  &lt;a class="reference external" href="http://www.firefox.com.cn/"&gt;http://www.firefox.com.cn/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么使用Firefox浏览器？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python  &lt;a class="reference external" href="https://www.python.org/"&gt;https://www.python.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么需要程序设计语言？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;什么是解释器？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode  &lt;a class="reference external" href="https://code.visualstudio.com/"&gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么使用VSCode？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;TinyWall  &lt;a class="reference external" href="https://tinywall.pados.hu/"&gt;https://tinywall.pados.hu/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;为什么使用TinyWall？&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用百度搜索  &lt;a class="reference external" href="https://www.baidu.com/"&gt;https://www.baidu.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何区分百度搜索结果里的广告和官网&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装Firefox浏览器&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox浏览器隐私设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox浏览器界面设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Firefox浏览器主页设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装Python解释器&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装VSCode开发环境&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装简体中文扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode隐私设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode字体设置&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装Python扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装pylint扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;pip切换国内源&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Win10显示文件扩展名&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;VSCode安装Code Runner扩展&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用VSCode的命令面板&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Python设置中文字符编码&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何在VSCode中运行Python程序&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载并安装TinyWall&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何使用TinyWall控制特定程序访问网络&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如何通过Windows控制面板卸载程序&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Code Runner</category><category>Firefox</category><category>pip</category><category>pylint</category><category>Python</category><category>TinyWall</category><category>VSCode</category><category>中文字符编码</category><category>卸载程序</category><category>文件扩展名</category><guid>https://teacherlonglong.github.io/posts/di-yi-qi-shi-pin-yao-dian/</guid><pubDate>Wed, 18 Nov 2020 14:38:22 GMT</pubDate></item></channel></rss>
