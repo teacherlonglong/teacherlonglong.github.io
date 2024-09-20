@@ -7,20 +7,41 @@
             line-height: 36px;
         }
         a {
-            color:blue;
+            color:white;
             font-size: 24px;
             text-decoration: none;
         }
         a:visited {
-            color: blue;
+            color: white;
         }
-        li {
+        li{
             list-style: none;
             height: 30px;
+            padding: 5px;
+        }
+        li.content {
+            list-style: none;
+            height: 30px;
+        }
+        li>a {
+            height: 30px;
             line-height: 30px;
+            width: 500px;
+            padding-left: 10px;
+            background-color: lightcoral;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            border-radius: 5px;
         }
         hr {
-            margin-top: 20px;
+            margin-top: 60px;
             margin-bottom: 20px;
         }
     </style>
@@ -29,18 +50,18 @@
 <body>
     <h1>信息工程系公共文件</h1>
     <ul>
-        <li><a href="./kechengzongbiao.html" target="_blank">1. 信息工程系2024年秋季课程总表</a></li>
+        <li class="content"><a href="./kechengzongbiao.html" target="_blank">1. 信息工程系2024年秋季课程总表</a></li>
         <li></li>
-        <li><a href="./教室分布图.htm" target="_blank">2. 教室分布图</a></li>
+        <li class="content"><a href="./教室分布图.htm" target="_blank">2. 教室分布图</a></li>
         <li></li>
-        <li><a href="./作息时间表.htm" target="_blank">3. 作息时间表</a></li>
+        <li class="content"><a href="./作息时间表.htm" target="_blank">3. 作息时间表</a></li>
         <li></li>
-        <li><a href="./值班表.htm" target="_blank">4. 值班表</a></li>
+        <li class="content"><a href="./值班表.htm" target="_blank">4. 值班表</a></li>
     </ul>
     <hr/>
     <h1>2024网络信息安全1班公共文件</h1>
     <ul>
-        <li><a href="#" onclick="goto24wangan1_1()">1. 2024网络信息安全1班人名单</a></li>
+        <li class="content"><a href="#" onclick="goto24wangan1_1()">1. 2024网络信息安全1班人名单</a></li>
     </ul>
     <script>
         function goto24wangan1_1(){
